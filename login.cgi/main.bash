@@ -1,0 +1,1 @@
+g++ -o login.cgi login.cpp
